@@ -1,0 +1,18 @@
+@import "antd/dist/antd.css";
+
+.caculate {
+    display: flex;
+    
+}
+
+.caculate .amount-input{
+    width: 30%;
+}
+
+.currency-mode{
+    margin: 20px;
+}
+
+.currency{
+    color: blue;
+}
